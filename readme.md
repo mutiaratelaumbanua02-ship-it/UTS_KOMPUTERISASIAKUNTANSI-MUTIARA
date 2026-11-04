@@ -53,7 +53,7 @@ Toko_kelontong/
 ## Akun Admin
 | Username | Password |
 |---|---|
-| admin | [admin123] |
+| admin | admin123 |
 
 ## Daftar Screenshoot
 | File | Keterangan |
